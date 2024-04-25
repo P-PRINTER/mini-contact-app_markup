@@ -1,0 +1,14 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+    
+            // null for all three -> denotes the same path as the SASS file
+            "savePath": "~/../css/",
+            "savePathReplacementPairs": null,
+            "generateMap": false
+        },
+    ],
+    "livePugCompiler.savePath": "/"
+}
